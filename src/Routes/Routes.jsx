@@ -6,7 +6,7 @@ import PagesToRead from "../Pages/PagesToRead/PagesToRead";
 import ErrorPage from "../Pages/ErrorPage/ErrorPage";
 import BookDetails from "../Pages/BookDetails/BookDetails";
 
-export const router = createBrowserRouter([
+export const Router = createBrowserRouter([
   {
     path: "/",
     Component: Root,
