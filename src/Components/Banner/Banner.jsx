@@ -8,7 +8,7 @@ const Banner = () => {
       <button className='bg-green-500 text-white px-4 py-1 rounded-md hover:bg-green-600 cursor-pointer font-medium'>View The List</button>
       </div>
       <div>
-        <img className='h-100 w-120'  src="/public/Images/pngwing 1.png" alt="" />
+        <img className='h-100 w-120'  src="Images/pngwing 1.png" alt="" />
       </div>
     </div>
   );
