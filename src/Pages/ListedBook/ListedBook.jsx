@@ -30,7 +30,7 @@ const ListedBook = () => {
           </span>
         </button>
       </div>
-      <div className="px-[10%]">
+      <div className="px-[10%] -z-30" >
         <Tabs>
           <TabList>
             <Tab>Reads Books</Tab>

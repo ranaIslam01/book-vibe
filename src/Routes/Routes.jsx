@@ -2,9 +2,9 @@ import { createBrowserRouter } from "react-router";
 import Root from "../Pages/Root/Root";
 import Home from "../Pages/Home/Home";
 import ListedBook from "../Pages/ListedBook/ListedBook";
-import PagesToRead from "../Pages/PagesToRead/PagesToRead";
 import ErrorPage from "../Pages/ErrorPage/ErrorPage";
 import BookDetails from "../Pages/BookDetails/BookDetails";
+import { PagesToRead } from "../Pages/PagesToRead/PagesToRead";
 
 export const Router = createBrowserRouter([
   {
